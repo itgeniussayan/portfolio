@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+# Personal Portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 
@@ -34,6 +34,6 @@ git clone https://github.com/itgeniussayan/portfolio.git
 
 If you want to contact me you can reach me at [Instagram](https://www.instagram.com/sayan_das_00_/).
 
-## License
+
 
 
