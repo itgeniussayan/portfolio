@@ -6,7 +6,7 @@ This is a personal portfolio website, responsive for all devices, built using HT
 
 ## Demo
 
-View a live demo of [Astrofy](https://astrofy-template.netlify.app/)
+View a live demo of [Portfolio](https://itgeniussayan.github.io/portfolio/)
 
 ## Prerequisites
 
