@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63fe7c0-cb28-4052-a9fc-604059bc6127" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Removal-282.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Removal-2821.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Screenshot 2024-08-31 041240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/data-engineer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/ed8a0333-8049-439d-a03b-22040b42b05e (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/ed8a0333-8049-439d-a03b-22040b42b05e (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/ed8a0333-8049-439d-a03b-22040b42b05e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-java-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-spring-boot-50.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f63fe7c0-cb28-4052-a9fc-604059bc6127" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
