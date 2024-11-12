@@ -87,9 +87,7 @@ Hi Everone MySelf <b>Sayan</b>,i am a Back End Developer <img src="https://media
     </a>
     
 
-## Contact
 
-If you want to contact me you can reach me at [Instagram](https://www.instagram.com/sayan_das_00_/).
 
 
 
