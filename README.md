@@ -61,7 +61,7 @@ Hi Everone MySelf <b>Sayan</b>,i am a Back End Developer <img src="https://media
     
     
     </a>
-    <a href="www.linkedin.com/in/sayan-das-334515269" target="blank">
+    <a href="https://www.linkedin.com/in/sayan-das-334515269" target="_blank">
       <img
         src="https://img.icons8.com/color/48/null/linkedin.png"
         align="center"
@@ -69,7 +69,7 @@ Hi Everone MySelf <b>Sayan</b>,i am a Back End Developer <img src="https://media
         width="50"
       />
     </a>
-    <a href="https://www.instagram.com/sayan_das_00_/" target="blank">
+    <a href="https://www.instagram.com/sayan_das_00_/" target="_blank">
       <img
         src="https://img.icons8.com/fluency/48/null/instagram-new.png"
         align="center"
@@ -77,7 +77,7 @@ Hi Everone MySelf <b>Sayan</b>,i am a Back End Developer <img src="https://media
         width="50"
       />
     </a>
-    <a href="https://www.facebook.com/Sayandas72" target="blank">
+    <a href="https://www.facebook.com/Sayandas72" target="_blank">
       <img
         src="https://img.icons8.com/color/50/null/facebook.png"
         align="center"
@@ -85,14 +85,7 @@ Hi Everone MySelf <b>Sayan</b>,i am a Back End Developer <img src="https://media
         width="50"
       />
     </a>
-    <a href="https://twitter.com/Sayan_Das_0_0_" target="blank">
-      <img
-        src="https://img.icons8.com/color/48/null/twitter.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
+    
 
 ## Contact
 
